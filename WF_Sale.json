@@ -533,26 +533,6 @@
 {"marketId":"60e70f79479445008f272572","code":"secondary_merciless","main":"Secondary Merciless","component":null,"zh":"次要 无情","en":"Secondary Merciless"},
 {"marketId":"60e70f7f479445008f27259d","code":"secondary_deadhead","main":"Secondary Deadhead","component":null,"zh":"次要 死首","en":"Secondary Deadhead"},
 {"marketId":"60e70f7a479445008f27257d","code":"secondary_dexterity","main":"Secondary Dexterity","component":null,"zh":"次要 熟练","en":"Secondary Dexterity"},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {"marketId":"54a73e65e779893a797fff6f","code":"rhino_prime_neuroptics","main":"Rhino Prime","component":"Neuroptics","zh":"牛 头部神经光元","en":"Rhino Prime Neuroptics"},
 {"marketId":"54a73e65e779893a797fff7f","code":"rhino_prime_systems","main":"Rhino Prime","component":"Systems","zh":"牛 系统","en":"Rhino Prime Systems"},
 {"marketId":"54a73e65e779893a797fff78","code":"rhino_prime_chassis","main":"Rhino Prime","component":"Chassis","zh":"牛 机体","en":"Rhino Prime Chassis"},
@@ -1684,27 +1664,6 @@
 {"marketId":"5f986cf99dbdce024971b0b8","code":"guandao_prime_blade","main":"Guandao Prime","component":"Blade","zh":"关刀 刀刃","en":"Guandao Prime Blade"},
 {"marketId":"5f986cf89dbdce024971b0b6","code":"guandao_prime_set","main":"Guandao Prime","component":"Set","zh":"关刀 一套","en":"Guandao Prime Set"},
 {"marketId":"5f986cf99dbdce024971b0ba","code":"zakti_prime_set","main":"Zakti Prime","component":"Set","zh":"毒芽 一套","en":"Zakti Prime Set"},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {"marketId":"5a7ee3f37f2bca0656a2c39d","code":"lith_g2_intact","main":"Lith G2","component":"Intact","zh":"古纪 G2","en":"Lith G2 Intact"},
 {"marketId":"5a7ee3f37f2bca0656a2c397","code":"meso_e1_intact","main":"Meso E1","component":"Intact","zh":"前纪 E1","en":"Meso E1 Intact"},
 {"marketId":"5a7ee3f27f2bca0656a2c38e","code":"meso_f3_intact","main":"Meso F3","component":"Intact","zh":"前纪 F3","en":"Meso F3 Intact"},
@@ -4850,6 +4809,16 @@
 {"marketId":"6139101a30dd5b004b7f90a8","code":"nidus_prime_systems","main":"Nidus Prime","component":"Systems","zh":"蛆 Prime 系统","en":"Nidus Prime Systems"},
 {"marketId":"6139101a30dd5b004b7f90ac","code":"nidus_prime_neuroptics","main":"Nidus Prime","component":"Neuroptics","zh":"蛆 Prime 头部神经光元","en":"Nidus Prime Neuroptics"},
 {"marketId":"6139101a30dd5b004b7f90ad","code":"nidus_prime_chassis","main":"Nidus Prime","component":"Chassis","zh":"蛆 Prime 机体","en":"Nidus Prime Chassis"},
+{"marketId":"6139101930dd5b004b7f909e","code":"nidus_prime_set","main":"Nidus Prime","component":"Set","zh":"蛆 一套","en":"Nidus Prime Set"},
+{"marketId":"6139101830dd5b004b7f9093","code":"nidus_prime_blueprint","main":"Nidus Prime","component":"Blueprint","zh":"蛆 蓝图","en":"Nidus Prime Blueprint"},
+{"marketId":"6139101a30dd5b004b7f90a8","code":"nidus_prime_systems","main":"Nidus Prime","component":"Systems","zh":"蛆 系统","en":"Nidus Prime Systems"},
+{"marketId":"6139101a30dd5b004b7f90ac","code":"nidus_prime_neuroptics","main":"Nidus Prime","component":"Neuroptics","zh":"蛆 头部神经光元","en":"Nidus Prime Neuroptics"},
+{"marketId":"6139101a30dd5b004b7f90ad","code":"nidus_prime_chassis","main":"Nidus Prime","component":"Chassis","zh":"蛆 机体","en":"Nidus Prime Chassis"},
+{"marketId":"6139101930dd5b004b7f909e","code":"nidus_prime_set","main":"Nidus Prime","component":"Set","zh":"蛆爹 一套","en":"Nidus Prime Set"},
+{"marketId":"6139101830dd5b004b7f9093","code":"nidus_prime_blueprint","main":"Nidus Prime","component":"Blueprint","zh":"蛆爹 蓝图","en":"Nidus Prime Blueprint"},
+{"marketId":"6139101a30dd5b004b7f90a8","code":"nidus_prime_systems","main":"Nidus Prime","component":"Systems","zh":"蛆爹 系统","en":"Nidus Prime Systems"},
+{"marketId":"6139101a30dd5b004b7f90ac","code":"nidus_prime_neuroptics","main":"Nidus Prime","component":"Neuroptics","zh":"蛆爹 头部神经光元","en":"Nidus Prime Neuroptics"},
+{"marketId":"6139101a30dd5b004b7f90ad","code":"nidus_prime_chassis","main":"Nidus Prime","component":"Chassis","zh":"蛆爹 机体","en":"Nidus Prime Chassis"},
 
 
 
