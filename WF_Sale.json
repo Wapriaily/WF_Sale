@@ -4829,8 +4829,9 @@
 {"marketId":"61460dcce330e600455dcea2","code":"ghoulsaw_engine","main":"Ghoulsaw","component":"Engine","zh":"尸鬼电锯 引擎","en":"Ghoulsaw Engine"},
 {"marketId":"61460dcde330e600455dcea5","code":"ghoulsaw_blueprint","main":"Ghoulsaw","component":"Blueprint","zh":"尸鬼电锯 蓝图","en":"Ghoulsaw Blueprint"},
 {"marketId":"61460dcde330e600455dcea4","code":"ghoulsaw_chassis","main":"Ghoulsaw","component":"Chassis","zh":"尸鬼电锯 机体","en":"Ghoulsaw Chassis"},
-{"marketId":"61460dcde330e600455dcea3","code":"ghoulsaw_set","main":"Ghoulsaw","component":"","zh":"尸鬼电锯 一套","en":"Ghoulsaw Set"},
-{"marketId":"6139101a30dd5b004b7f90a1","code":"butchers_revelry","main":"Butcher's Revelry","component":"","zh":"屠戮盛宴","en":"Butcher's Revelry"},
+{"marketId":"61460dcde330e600455dcea3","code":"ghoulsaw_set","main":"Ghoulsaw","component":"Set","zh":"尸鬼电锯 一套","en":"Ghoulsaw Set"},
+{"marketId":"6139101a30dd5b004b7f90a1","code":"butchers_revelry","main":"Butcher's Revelry","component":null,"zh":"屠戮盛宴","en":"Butcher's Revelry"},
+{"marketId":"614f83a3e330e60063b618fa","code":"primed_ammo_stock","main":"Primed Ammo Stock","component":null,"zh":"霰弹扩充 Prime","en":"Primed Ammo Stock"},   
 
 
 
